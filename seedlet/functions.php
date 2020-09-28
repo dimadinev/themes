@@ -279,7 +279,7 @@ endif;
 add_action( 'after_setup_theme', 'seedlet_setup' );
 
 /**
- * Add Google webfonts, if necessary.
+ * Add Google webfonts, if necessary
  *
  * - See: http://themeshaper.com/2014/08/13/how-to-add-google-fonts-to-wordpress-themes/
  */
